@@ -1,0 +1,1 @@
+void matmul_cpu(float* fpMatrixA, float* fpMatrixB, float* fpMatrixC, int m, int n, int k);
