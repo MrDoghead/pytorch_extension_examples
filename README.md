@@ -2,7 +2,7 @@
 
 The easiest way to use <torch/extension.h> in cpp and cuda.
 
-Offical tutorial: https://pytorch.org/tutorials/advanced/cpp_extension.html
+Official tutorial: https://pytorch.org/tutorials/advanced/cpp_extension.html
 
 There were two ways of building C++ extensions: using just in time (JIT) or setuptools. The former is lighter.
 
