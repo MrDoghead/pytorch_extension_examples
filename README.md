@@ -33,10 +33,15 @@ Find the simple mixed cpp/cuda example in the folder `example_cuda_setuptools`
 I did tests on an A100 server, and here is my environment:
 
 System: Ubuntu 20.04.6 LTS
+
 Python: 3.10.13
+
 PyTorch: 2.2.1
+
 CUDA Version: 12.2
+
 Driver Version: 535.161.07
+
 gcc/g++/c++: 11.3.0
 
 
